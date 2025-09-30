@@ -1,4 +1,4 @@
-<img width="1062" height="874" alt="image" src="https://github.com/user-attachments/assets/3e54b7c1-5de1-4dbe-870c-bec132baa7db" /># Problem 2.1
+# Problem 2.1
 ## Topology
 <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/c19b53be-4aff-4728-9c94-852ee1c7d126" />
 
