@@ -80,7 +80,8 @@ As we can see, termshark in PC 5 didn't capture ping from PC 1 to PC 2
 
 ## Do termshark for capturing network activities that involve DHCP (restart PC 4)
 <img width="1073" height="262" alt="image" src="https://github.com/user-attachments/assets/b17910c2-da1b-45dd-b4b2-8483e77e48d6" />
-<img width="1073" height="262" alt="image" src="https://github.com/user-attachments/assets/52b24123-0e96-4686-965a-894d972c9459" />
+<img width="1083" height="902" alt="image" src="https://github.com/user-attachments/assets/4aa1f6d1-4004-405a-a027-88344f5f22c4" />
+
 
 
 
